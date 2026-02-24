@@ -13,3 +13,5 @@ Goal: build an intuition for how camera -> marker -> pose works.
 - OpenCV with contrib modules
 - Numpy
 
+## Demo Screenshot
+<img src="other/screenshot1.jpg" width="50%"><img src="other/screenshot2.jpg" width="50%">
